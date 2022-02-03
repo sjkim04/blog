@@ -5,17 +5,8 @@ permalink: /about/
 ---
 <div class="mt50"></div>
 
-Webjeda Gatok is a Bootstrap based theme. Any Bootstrap element can be used in the theme.
+正小説の情報・案内などを載せるサイトです。
 
-The name Gatok is a short form of [Ghatotkacha](https://en.wikipedia.org/wiki/Ghatotkacha){: target="_blank"} who was a monster in the Hindu mythology Mahabharatha.
+This is a site which I announce almost everything about Seishousetsu.
 
-![Gatok Jekyll Theme]({{site.baseurl}}/images/gatok.jpg)
-
-He is someone you shouldn't be messing with!
-![Gatok Jekyll Theme]({{site.baseurl}}/images/gatok-2.jpg)
-
-
-[**Watch his story**](https://www.youtube.com/watch?v=6gYv6S1dCqs){: target="_blank"}
-
-
-Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials. 
+정소설에 대한 공지를 하는 사이트입니다.
