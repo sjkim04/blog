@@ -2,7 +2,7 @@
 layout: post
 title:  "Features"
 date:   2016-07-07 23:07:13 +0530
-categories: jekyll update
+categories: jekyll update documentation
 ---
 
 ## 3D menu bar
